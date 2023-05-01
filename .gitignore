@@ -1,10 +1,10 @@
 # Ignore o arquivo de LOG das informações buscadas
-.log_dados.txt
+*.txt
 
 # Ignore o PyCache
 __pycache__/
 
 # Ignore ambientes virtuais
-env/
-venv/
-virtualenv/
+.env/
+.venv/
+.virtualenv/
