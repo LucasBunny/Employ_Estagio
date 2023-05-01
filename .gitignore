@@ -5,6 +5,9 @@
 __pycache__/
 
 # Ignore ambientes virtuais
-.env/
-.venv/
-.virtualenv/
+env/
+venv/
+virtualenv/
+.env
+.venv
+.virtualvenv
